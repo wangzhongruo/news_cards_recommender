@@ -1,4 +1,4 @@
-# news_cards_recommender
+# CTR prediction on News Feeding Cards
 
 Use Sagemaker integraded factorization machine on predicting the Click-through rate(CTR) on news feeding cards for Sofi member team.
 
