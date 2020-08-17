@@ -1,6 +1,6 @@
 # CTR Prediction on News Feeding Cards
 
-1. Use Sagemaker integraded factorization machine on predicting the Click-through rate(CTR) on news feeding cards with AUC around 0.82.
+1. Build an initial model with Sagemaker integraded factorization machine on predicting the Click-through rate(CTR) for news feeding cards (AUC around 0.82).
 2. Recommend the top 3 news cards/blogs for new registered users
 
 ## Reference:
