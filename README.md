@@ -1,6 +1,7 @@
-# CTR prediction on News Feeding Cards
+# CTR Prediction on News Feeding Cards
 
-Use Sagemaker integraded factorization machine on predicting the Click-through rate(CTR) on news feeding cards for Sofi member team.
+1. Use Sagemaker integraded factorization machine on predicting the Click-through rate(CTR) on news feeding cards with AUC around 0.82.
+2. Recommend the top 3 news cards/blogs for new registered users
 
 ## Reference:
 Sagemaker build-in function for factorization machine
